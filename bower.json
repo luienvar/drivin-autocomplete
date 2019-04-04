@@ -1,0 +1,21 @@
+{
+  "name": "drivinAutocomplete",
+  "version": "1.0.0",
+  "homepage": "https://github.com/luienvar/drivin-autocomplete",
+  "authors": [
+    "Luis Varela <luisvarelah1991@gmail.com>"
+  ],
+  "description": "Drivin autocomplete directive for angularjs",
+  "main": "src/ngDrivinplaces.js",
+  "dependencies": {
+    "angular": ">=1.2.0"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
