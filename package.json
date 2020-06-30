@@ -1,0 +1,19 @@
+{
+  "name": "@drivin/drivin-autocomplete",
+  "version": "1.0.0",
+  "description": "A simple directive for adding google places for [Drivin Smart Deliveries](www.driv.in) using only the [basic SKU](https://developers.google.com/places/web-service/usage-and-billing) of google places API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luienvar/drivin-autocomplete.git"
+  },
+  "author": "Luis Varela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luienvar/drivin-autocomplete/issues"
+  },
+  "homepage": "https://github.com/luienvar/drivin-autocomplete#readme"
+}
