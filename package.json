@@ -1,5 +1,5 @@
 {
-  "name": "@drivin/drivin-autocomplete",
+  "name": "drivin-autocomplete",
   "version": "1.0.0",
   "description": "A simple directive for adding google places for [Drivin Smart Deliveries](www.driv.in) using only the [basic SKU](https://developers.google.com/places/web-service/usage-and-billing) of google places API.",
   "main": "index.js",
